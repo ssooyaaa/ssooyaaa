@@ -1,5 +1,4 @@
-<h1> Hello, World!👋<h1>
-<h1> I'm soohyun Choi</h1>
+<h1> Hello, World!👋 I'm soohyun Choi</h1>
 
 <div> 부산대학교 산업공학과 </div>
 
