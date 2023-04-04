@@ -1,6 +1,6 @@
 <h1> Hello, World!👋 I'm soohyun Choi</h1>
 
-<h4>🤗계속해서 빠르게 성장하고있는 Web Developer</h4>
+<h4>🌟계속해서 빠르게 성장하고있는 Web Developer🌟</h4>
 
 <h4>🛠STACKS</h4>
 <div>
