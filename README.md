@@ -1,6 +1,6 @@
 <h1> Hello, World!👋 I'm soohyun Choi</h1>
 
-<h3>🌟"Teach a man to fish!" 성장하고있는 Web Developer🌟</h3>
+<h3>🌟"Teach a man to fish!" 성장하고있는 Developer🌟</h3>
 
 <h4>🛠STACKS</h4>
 <div>
